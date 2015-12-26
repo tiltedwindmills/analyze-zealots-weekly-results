@@ -1,0 +1,9 @@
+{
+  "name": "download-zealots-weekly-results",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "request": "^2.67.0"
+  }
+}
